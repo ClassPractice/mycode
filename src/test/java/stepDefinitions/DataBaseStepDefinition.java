@@ -31,8 +31,6 @@ public class DataBaseStepDefinition extends Base {
 	
 	
 	
-	# this is changes from repository please have paste it and work on it
-		#src/test/java/stepDefinition
 	
 	
 	
