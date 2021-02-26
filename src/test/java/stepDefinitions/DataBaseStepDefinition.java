@@ -26,7 +26,13 @@ public class DataBaseStepDefinition extends Base {
 		logger.info("resultSet is stored in a CSV file in outcome folder");
 		DataBaseUtility.closeDBConnection();
 		logger.info("DataBase connection has been closed");
-	
+//<<<<<<< HEAD
+//	
+//=======
+//	}
+//	
+//	// no changes
+//>>>>>>> 9126adb3dbce2d860535345fdb17162460098094
 	
 	
 	
